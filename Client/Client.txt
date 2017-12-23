@@ -12,11 +12,7 @@ import java.io.BufferedOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
-/**
- * 
- * @author Laukik Ramesh Kathoke
- * UTA ID: 1001558835
- */
+
 
 //Client represents single Client
 
